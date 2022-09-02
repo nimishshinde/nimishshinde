@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimishshinde
 - 👀 I’m interested in WebDev, DS-AlGO, React, Node, Javascript.. 
-- 🌱 I’m currently learning React, Javascript, firebase and backend... 
+- 🌱 I’m currently learning React and backend... 
 - 📫 How to reach me IG - nimishwtf, Linkedln - Nimish Shinde, Twitter - @shinde_nimish 
 
 <!---
